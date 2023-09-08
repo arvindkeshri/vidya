@@ -1,0 +1,8 @@
+# ignore following directories to push
+/node_modules
+/.practice
+/.vscode
+
+
+
+
