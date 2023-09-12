@@ -1,7 +1,5 @@
 const express = require('express');
 const app = express();
-//const mysql = require('mysql2');
-//const path = require('path');
 
 const userRouter = require('./routers/userRouter')
 const sequelize =  require('./util/sequelize');
